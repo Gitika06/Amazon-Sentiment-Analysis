@@ -90,6 +90,3 @@ This ensures the model’s predictions are reliable.
 2. Install Python dependencies  
 3. Launch Jupyter Notebook  
 4. Run all cells in order
-
-## 📂 Project Structure
-
